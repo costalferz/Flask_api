@@ -8,7 +8,7 @@
 **Windows**
           
 ```bash
-git clone https://github.com/Dev-Elie/Flask-Docker-App.git
+git clone https://github.com/costalferz/flask_docker.git
 cd Flask-Docker-App
 py -3 -m venv venv
 
@@ -17,7 +17,7 @@ py -3 -m venv venv
 **macOS/Linux**
           
 ```bash
-git clone https://github.com/Dev-Elie/Flask-Docker-App.git
+git clone https://github.com/costalferz/flask_docker.git
 cd Flask-Docker-App
 python3 -m venv venv
 
@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 ## Create a new application from scratch
 
-### 1. Create a directory with a name **"Flask-Docker-App"**
+### 1. Create a directory with a name **"Flask-Docker**
 `mkdir Flask-Docker-App`
 
 ### 2. Navigate to the newly created directory
